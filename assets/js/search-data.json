@@ -41,8 +41,8 @@
       ,"page1": {
           "title": "About Me",
           "content": "",
-          "url": "https://rakash.github.io/the-data-journo/_pages/about.html",
-          "relUrl": "/_pages/about.html",
+          "url": "https://rakash.github.io/the-data-journo/",
+          "relUrl": "/",
           "date": ""
       }
       
