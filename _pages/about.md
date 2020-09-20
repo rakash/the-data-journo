@@ -1,11 +1,12 @@
 ---
 layout: page
-title: **About**
+title: About
 permalink: /about/
 ---
 
+This is the Blog section of my [Website](https://rakash.github.io).
 
-This Website is a sub-site of my website, which is [here](https://rakash.github.io) 
+
 
 
 
