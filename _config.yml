@@ -41,8 +41,8 @@ baseurl: "/the-data-journo" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: akash_ram
-    github: rakash
-
+    #github: rakash
+        
 # Set this to true to get LaTeX math equation support
 use_math: 
 
