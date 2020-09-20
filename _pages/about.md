@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
-permalink: 
+title: Home
+permalink: {{site.url}}
 ---
 
