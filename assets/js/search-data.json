@@ -39,10 +39,10 @@
 
   
       ,"page1": {
-          "title": "",
-          "content": "",
-          "url": "https://rakash.github.io/the-data-journo/_pages/about.html",
-          "relUrl": "/_pages/about.html",
+          "title": "About",
+          "content": "This is the Blog section of my Website. .",
+          "url": "https://rakash.github.io/the-data-journo/about/",
+          "relUrl": "/about/",
           "date": ""
       }
       
