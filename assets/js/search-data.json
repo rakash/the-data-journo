@@ -40,7 +40,7 @@
   
       ,"page1": {
           "title": "About",
-          "content": "This is the Blog section of my Website. .",
+          "content": "This is the Blog section of my Website. . I write about data and technology and all posts can be found in the home page. The search tab can help you in searching for a topic thats part of this site. . To know what topics are available, the Tags page should help in searching. . Happy Reading! .",
           "url": "https://rakash.github.io/the-data-journo/about/",
           "relUrl": "/about/",
           "date": ""
